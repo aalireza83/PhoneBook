@@ -1,0 +1,73 @@
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmMain.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmShow.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmEdit.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmAdd.resources
+C:\Documents and Settings\Amir\My Documents\Visual Studio 2008\Projects\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmBR.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmAdd.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmBR.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmEdit.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmMain.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmShow.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmAdd.resources
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmBR.resources
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmEdit.resources
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmMain.resources
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.frmShow.resources
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Amir\Desktop\SENATOR\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Amir\Desktop\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Amir\Desktop\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.frmAdd.resources
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.frmBR.resources
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.frmEdit.resources
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.frmMain.resources
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.frmShow.resources
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Amir\Desktop\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.frmAdd.resources
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.frmBR.resources
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.frmEdit.resources
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.frmShow.resources
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.frmAdd.resources
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.frmBR.resources
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.frmEdit.resources
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.frmMain.resources
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.frmShow.resources
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\user\Desktop\source-Csharp-xproje.ir\PhoneBook\obj\Debug\PhoneBook.pdb
